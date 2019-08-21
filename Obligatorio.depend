@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1563402071 source:c:\users\fedep\documents\programacion3\obligatorio\ciudad.cpp
+	"Ciudad.h"
+
+1563398301 c:\users\fedep\documents\programacion3\obligatorio\ciudad.h
+	"String.h"
+
+1562870925 c:\users\fedep\documents\programacion3\obligatorio\string.h
+	<stdio.h>
+
+1563402071 source:c:\users\fedep\documents\programacion3\obligatorio\ciudades.cpp
+	"Ciudades.h"
+
+1563401095 c:\users\fedep\documents\programacion3\obligatorio\ciudades.h
+	"Ciudad.h"
+	"Constantes.h"
+
+1563841829 source:c:\users\fedep\documents\programacion3\obligatorio\linea.cpp
+	"Linea.h"
+
+1563480500 c:\users\fedep\documents\programacion3\obligatorio\linea.h
+	"Ciudad.h"
+	"Paradas.h"
+
+1563841829 c:\users\fedep\documents\programacion3\obligatorio\paradas.h
+	"Parada.h"
+
+1563479832 c:\users\fedep\documents\programacion3\obligatorio\parada.h
+	"String.h"
+
+1563484365 source:c:\users\fedep\documents\programacion3\obligatorio\lineas.cpp
+	"Lineas.h"
+
+1563328043 c:\users\fedep\documents\programacion3\obligatorio\lineas.h
+	"Linea.h"
+	"Constantes.h"
+
+1563842804 source:c:\users\fedep\documents\programacion3\obligatorio\main.cpp
+	"Menu.h"
+
+1563479832 source:c:\users\fedep\documents\programacion3\obligatorio\parada.cpp
+	"Parada.h"
+
+1563841873 source:c:\users\fedep\documents\programacion3\obligatorio\paradas.cpp
+	"Paradas.h"
+
+1563477352 source:c:\users\fedep\documents\programacion3\obligatorio\rutas.cpp
+	"Rutas.h"
+
+1563477352 c:\users\fedep\documents\programacion3\obligatorio\rutas.h
+	<stdio.h>
+	"Constantes.h"
+
+1562870965 source:c:\users\fedep\documents\programacion3\obligatorio\string.cpp
+	"String.h"
+
+1563234047 c:\users\fedep\documents\programacion3\obligatorio\constantes.h
+
+1563397392 c:\users\fedep\documents\programacion3\obligatorio\menu.h
+	<stdlib.h>
+	"Ciudades.h"
+	"Lineas.h"
+	"Rutas.h"
+
+1563464491 source:c:\users\fedep\documents\programacion3\obligatorio\menu.cpp
+	"Menu.h"
+
+1563847728 source:c:\users\gonch\desktop\obligatorio\ciudad.cpp
+	"Ciudad.h"
+
+1563847728 c:\users\gonch\desktop\obligatorio\ciudad.h
+	"String.h"
+
+1562870925 c:\users\gonch\desktop\obligatorio\string.h
+	<stdio.h>
+
+1563847872 source:c:\users\gonch\desktop\obligatorio\ciudades.cpp
+	"Ciudades.h"
+
+1563847872 c:\users\gonch\desktop\obligatorio\ciudades.h
+	"Ciudad.h"
+	"Constantes.h"
+
+1563234047 c:\users\gonch\desktop\obligatorio\constantes.h
+
+1563981990 source:c:\users\gonch\desktop\obligatorio\linea.cpp
+	"Linea.h"
+
+1563984464 c:\users\gonch\desktop\obligatorio\linea.h
+	"Ciudad.h"
+	"Paradas.h"
+
+1563981990 c:\users\gonch\desktop\obligatorio\paradas.h
+	"Parada.h"
+
+1563479832 c:\users\gonch\desktop\obligatorio\parada.h
+	"String.h"
+
+1563981990 source:c:\users\gonch\desktop\obligatorio\lineas.cpp
+	"Lineas.h"
+
+1563981990 c:\users\gonch\desktop\obligatorio\lineas.h
+	"Linea.h"
+	"Constantes.h"
+
+1563980354 source:c:\users\gonch\desktop\obligatorio\main.cpp
+	"Menu.h"
+
+1563397392 c:\users\gonch\desktop\obligatorio\menu.h
+	<stdlib.h>
+	"Ciudades.h"
+	"Lineas.h"
+	"Rutas.h"
+
+1563477352 c:\users\gonch\desktop\obligatorio\rutas.h
+	<stdio.h>
+	"Constantes.h"
+
+1563464491 source:c:\users\gonch\desktop\obligatorio\menu.cpp
+	"Menu.h"
+
+1563479832 source:c:\users\gonch\desktop\obligatorio\parada.cpp
+	"Parada.h"
+
+1564165323 source:c:\users\gonch\desktop\obligatorio\paradas.cpp
+	"Paradas.h"
+
+1563477352 source:c:\users\gonch\desktop\obligatorio\rutas.cpp
+	"Rutas.h"
+
+1562870965 source:c:\users\gonch\desktop\obligatorio\string.cpp
+	"String.h"
+
